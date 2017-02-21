@@ -76,6 +76,12 @@ margin: auto;
 	color: #FF8000;
 }
 
+.invisible{
+	visibility: none;
+	opacity: 0;
+	height: 0px;
+display: none;
+}
 
 .h1_home{
 	font-size: 80px;
