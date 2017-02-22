@@ -76,6 +76,10 @@ margin: auto;
 	color: #FF8000;
 }
 
+.lubelfont{
+	font-family: 'Allerta Stencil', sans-serif;
+}
+
 .invisible{
 	visibility: none;
 	opacity: 0;
