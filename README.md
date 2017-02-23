@@ -1,7 +1,2 @@
-#Flatfy - Theme | New Version!
+Lubel Soluciones Marketing BTL y Recursos humanos
 
-##Responsive Mobile & Flat Design 
-Own Carousel & Bootstrap Framework CSS 
-Font Icon Svg & Animate
-
-Theme made by [Andrea Galanti](http://www.andreagalanti.it/flatfy.php)
