@@ -906,6 +906,10 @@ img.shadow {
   .hero-1 {
     padding-top: 120px;
   }
+  .item{
+    height: 100%
+    width:auto;
+  }
 }
 
 .hero-2 {
